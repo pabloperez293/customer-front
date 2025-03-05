@@ -1,4 +1,4 @@
-# Angular CRUD By [Sotobotero](https://sotobotero.com)
+# Angular CRUD
 
 **Content**   
 1. [Como contribuir con este proyecto](#como-contribuir-con-este-proyecto)
