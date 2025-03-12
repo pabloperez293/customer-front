@@ -13,10 +13,13 @@ import { MatSelectModule } from '@angular/material/select';
 import {MatCardModule} from '@angular/material/card';
 import { MatInputModule } from '@angular/material/input';
 import { MatSnackBarModule } from '@angular/material/snack-bar';
+import { ListProductComponent } from './products/list-product/list-product.component';
 
 
 @NgModule({
   declarations: [  
+  
+    ListProductComponent
   ],
   imports: [MatTableModule, MatPaginatorModule, MatToolbarModule,  MatSidenavModule, 
        MatListModule,    MatButtonModule,    MatIconModule, CommonModule,MatFormFieldModule, MatIconModule,
